@@ -17,13 +17,13 @@ import SolutionLP
 
 import time
 
-#0: Policy iteration [this is not PI !!!!]
+
 #1: Value iteration
 #2: MDP Toolbox
 #3: ValueIteration+PolicyIteration
-#4: Linear Programming
 
-solution = 4
+
+solution = 3
 
 if __name__ == "__main__":
     """
